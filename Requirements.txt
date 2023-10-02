@@ -1,0 +1,6 @@
+ta
+pandas
+matplotlib
+numpy
+mplfinance
+tqdm
